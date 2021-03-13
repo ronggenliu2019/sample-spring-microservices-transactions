@@ -1,2 +1,5 @@
 # Project exclude paths
-/transaction-server/target/
+target
+.project
+.classpath
+.settings
